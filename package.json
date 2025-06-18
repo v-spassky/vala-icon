@@ -3,12 +3,26 @@
     "displayName": "Vala icon",
     "description": "Adds an icon for `.vala` files.",
     "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/v-spassky/vala-icon.git"
+    },
     "engines": {
         "vscode": "^1.50.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "vala"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/v-spassky/vala-icon",
+    "bugs": {
+        "url": "https://github.com/v-spassky/vala-icon/issues"
+    },
+    "icon": "assets/extension_icon.png",
+    "publisher": "VasiliySpassky",
     "contributes": {
         "languages": [
             {
